@@ -8,7 +8,7 @@ export type LanguageRepository = {
 
 export function languageRepositoryCompare(
   a: LanguageRepository,
-  b: LanguageRepository
+  b: LanguageRepository,
 ) {
   return a.language.localeCompare(b.language);
 }

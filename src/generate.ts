@@ -6,7 +6,7 @@ import { librariesToString } from "./models/Libraries.ts";
 import { Repositories } from "./models/Repositories.ts";
 import { repositories } from "./repositories.ts";
 
-export function toMarkdownRow(repository: LanguageRepository) {
+function toMarkdownRow(repository: LanguageRepository) {
   const languageWithLink = `[${repository.language}](${repository.url})`;
   const generateLink = `[🚀](${repository.url}/generate)`;
   const libraries = librariesToString(repository.libraries);
