@@ -16,6 +16,20 @@ export const repositories: Repositories = [
     ],
   },
   {
+    language: "PHP",
+    url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-php",
+    libraries: [
+      {
+        name: "PHPUnit",
+        emoji: "✅",
+      },
+      {
+        name: "Infection",
+        emoji: "🧟",
+      },
+    ],
+  },
+  {
     language: "TypeScript",
     url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript",
     libraries: [
