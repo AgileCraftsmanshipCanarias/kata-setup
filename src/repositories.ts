@@ -21,7 +21,7 @@ export const repositories: Repositories = [
   },
   {
     language: "Kotlin",
-    url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript",
+    url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-kotlin",
     libraries: [
       {
         name: "AssertJ",

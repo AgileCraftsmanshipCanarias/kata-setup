@@ -31,7 +31,7 @@ jobs:
           deno-version: v1.x
 
       - name: Create local changes
-        run: deno run src/build.ts > README.md
+        run: deno run src/generate.ts > README.md
 
       - name: Commit & Push changes
         uses: actions-js/push@master
