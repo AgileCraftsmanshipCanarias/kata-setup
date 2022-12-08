@@ -11,6 +11,6 @@ You can click the 🚀 emoji to create a new repository from the template.
 
 | Language | Generate | Libraries |
 | --- | --- | --- |
-| [Kotlin](https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript/generate) | ✅ AssertJ, 🤖 Mockito |
+| [Kotlin](https://github.com/AgileCraftsmanshipCanarias/kata-setup-kotlin) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-kotlin/generate) | ✅ AssertJ, 🤖 Mockito |
 | [TypeScript](https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript/generate) | 💬 TypeScript, ✅ Vitest, 💅 Prettier |
 
