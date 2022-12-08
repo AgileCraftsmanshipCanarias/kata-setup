@@ -30,6 +30,16 @@ export const repositories: Repositories = [
     ],
   },
   {
+    language: "Rust",
+    url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-rust",
+    libraries: [
+      {
+        name: "mockall",
+        emoji: "🤖",
+      },
+    ],
+  },
+  {
     language: "TypeScript",
     url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript",
     libraries: [
