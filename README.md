@@ -12,6 +12,7 @@ You can click the 🚀 emoji to create a new repository from the template.
 | --- | --- | --- |
 | [Kotlin](https://github.com/AgileCraftsmanshipCanarias/kata-setup-kotlin) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-kotlin/generate) | ✅ AssertJ, 🤖 Mockito |
 | [PHP](https://github.com/AgileCraftsmanshipCanarias/kata-setup-php) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-php/generate) | ✅ PHPUnit, 🧟 Infection |
+| [Rust](https://github.com/AgileCraftsmanshipCanarias/kata-setup-rust) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-rust/generate) | 🤖 mockall |
 | [TypeScript](https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript/generate) | 💬 TypeScript, ✅ Vitest, 💅 Prettier |
 | [TypeScript (deno)](https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript-deno) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript-deno/generate) | ✅ expect |
 
