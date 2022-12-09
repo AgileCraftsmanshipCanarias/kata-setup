@@ -2,9 +2,31 @@ import { Repositories } from "./models/Repositories.ts";
 
 export const repositories: Repositories = [
   {
+    language: "Java",
+    url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-java",
+    libraries: [
+      {
+        name: "JUnit",
+        emoji: "🧪",
+      },
+      {
+        name: "AssertJ",
+        emoji: "✅",
+      },
+      {
+        name: "Mockito",
+        emoji: "🤖",
+      },
+    ],
+  },
+  {
     language: "Kotlin",
     url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-kotlin",
     libraries: [
+      {
+        name: "JUnit",
+        emoji: "🧪",
+      },
       {
         name: "AssertJ",
         emoji: "✅",
@@ -21,7 +43,7 @@ export const repositories: Repositories = [
     libraries: [
       {
         name: "PHPUnit",
-        emoji: "✅",
+        emoji: "🧪",
       },
       {
         name: "Infection",
@@ -49,7 +71,7 @@ export const repositories: Repositories = [
       },
       {
         name: "Vitest",
-        emoji: "✅",
+        emoji: "🧪",
       },
       {
         name: "Prettier",
