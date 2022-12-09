@@ -2,13 +2,14 @@ import { Libraries } from "./Libraries.ts";
 
 export type LanguageRepository = {
   language: string;
+  emoji: string;
   url: string;
   libraries: Libraries;
 };
 
 export function languageRepositoryCompare(
   a: LanguageRepository,
-  b: LanguageRepository,
+  b: LanguageRepository
 ) {
   return a.language.localeCompare(b.language);
 }

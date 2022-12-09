@@ -7,7 +7,7 @@ import { Repositories } from "./models/Repositories.ts";
 import { repositories } from "./repositories.ts";
 
 function toMarkdownRow(repository: LanguageRepository) {
-  const languageWithLink = `[${repository.language}](${repository.url})`;
+  const languageWithLink = `[${repository.emoji} ${repository.language}](${repository.url})`;
   const generateLink = `[🚀](${repository.url}/generate)`;
   const libraries = librariesToString(repository.libraries);
 

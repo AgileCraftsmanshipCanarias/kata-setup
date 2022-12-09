@@ -3,6 +3,7 @@ import { Repositories } from "./models/Repositories.ts";
 export const repositories: Repositories = [
   {
     language: "Java",
+    emoji: "☕",
     url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-java",
     libraries: [
       {
@@ -21,6 +22,7 @@ export const repositories: Repositories = [
   },
   {
     language: "Kotlin",
+    emoji: "🧩",
     url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-kotlin",
     libraries: [
       {
@@ -39,6 +41,7 @@ export const repositories: Repositories = [
   },
   {
     language: "PHP",
+    emoji: "🐘",
     url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-php",
     libraries: [
       {
@@ -52,7 +55,19 @@ export const repositories: Repositories = [
     ],
   },
   {
+    language: "Ruby",
+    emoji: "💎",
+    url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-ruby",
+    libraries: [
+      {
+        name: "RSpec",
+        emoji: "🧪",
+      },
+    ],
+  },
+  {
     language: "Rust",
+    emoji: "🦀",
     url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-rust",
     libraries: [
       {
@@ -63,6 +78,7 @@ export const repositories: Repositories = [
   },
   {
     language: "TypeScript",
+    emoji: "💬",
     url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript",
     libraries: [
       {
@@ -81,6 +97,7 @@ export const repositories: Repositories = [
   },
   {
     language: "TypeScript (deno)",
+    emoji: "🦕",
     url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript-deno",
     libraries: [
       {

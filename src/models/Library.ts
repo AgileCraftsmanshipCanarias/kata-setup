@@ -4,5 +4,5 @@ export type Library = {
 };
 
 export function libraryToString(library: Library) {
-  return `${library.emoji} ${library.name}`;
+  return library.name;
 }
