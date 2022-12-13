@@ -2,6 +2,25 @@ import { Repositories } from "./models/Repositories.ts";
 
 export const repositories: Repositories = [
   {
+    language: "Go",
+    emoji: "🐹",
+    url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-go",
+    libraries: [
+      {
+        name: "gotest",
+        emoji: "🧪",
+      },
+      {
+        name: "Testify",
+        emoji: "✅",
+      },
+      {
+        name: "Gomock",
+        emoji: "🤖",
+      },
+    ],
+  },
+  {
     language: "Java",
     emoji: "☕",
     url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-java",
