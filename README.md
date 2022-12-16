@@ -14,6 +14,7 @@ You can click the 🚀 emoji to create a new repository from the template.
 | [☕ Java](https://github.com/AgileCraftsmanshipCanarias/kata-setup-java) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-java/generate) | JUnit, AssertJ, Mockito |
 | [🧩 Kotlin](https://github.com/AgileCraftsmanshipCanarias/kata-setup-kotlin) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-kotlin/generate) | JUnit, AssertJ, Mockito |
 | [🐘 PHP](https://github.com/AgileCraftsmanshipCanarias/kata-setup-php) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-php/generate) | PHPUnit, Infection |
+| [🐍 Python](https://github.com/AgileCraftsmanshipCanarias/kata-setup-python) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-python/generate) | pytest, pytest-mock |
 | [💎 Ruby](https://github.com/AgileCraftsmanshipCanarias/kata-setup-ruby) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-ruby/generate) | RSpec |
 | [🦀 Rust](https://github.com/AgileCraftsmanshipCanarias/kata-setup-rust) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-rust/generate) | mockall |
 | [💬 TypeScript](https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-typescript/generate) | TypeScript, Vitest, Prettier |
