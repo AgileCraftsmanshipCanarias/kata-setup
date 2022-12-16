@@ -74,6 +74,21 @@ export const repositories: Repositories = [
     ],
   },
   {
+    language: "Python",
+    emoji: "🐍",
+    url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-python",
+    libraries: [
+      {
+        name: "pytest",
+        emoji: "🧪",
+      },
+      {
+        name: "pytest-mock",
+        emoji: "🤖",
+      },
+    ],
+  },
+  {
     language: "Ruby",
     emoji: "💎",
     url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-ruby",
