@@ -12,6 +12,7 @@ You can click the 🚀 emoji to create a new repository from the template.
 | --- | --- | --- |
 | [🐹 Go](https://github.com/AgileCraftsmanshipCanarias/kata-setup-go) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-go/generate) | gotest, Testify, Gomock |
 | [☕ Java](https://github.com/AgileCraftsmanshipCanarias/kata-setup-java) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-java/generate) | JUnit, AssertJ, Mockito |
+| [🌐 JavaScript](https://github.com/AgileCraftsmanshipCanarias/kata-setup-javascript) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-javascript/generate) | Vitest, Prettier |
 | [🧩 Kotlin](https://github.com/AgileCraftsmanshipCanarias/kata-setup-kotlin) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-kotlin/generate) | JUnit, AssertJ, Mockito |
 | [🐘 PHP](https://github.com/AgileCraftsmanshipCanarias/kata-setup-php) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-php/generate) | PHPUnit, Infection |
 | [🐍 Python](https://github.com/AgileCraftsmanshipCanarias/kata-setup-python) | [🚀](https://github.com/AgileCraftsmanshipCanarias/kata-setup-python/generate) | pytest, pytest-mock |
