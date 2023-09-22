@@ -40,6 +40,21 @@ export const repositories: Repositories = [
     ],
   },
   {
+    language: "JavaScript",
+    emoji: "🌐",
+    url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-javascript",
+    libraries: [
+      {
+        name: "Vitest",
+        emoji: "🧪",
+      },
+      {
+        name: "Prettier",
+        emoji: "💅",
+      },
+    ],
+  },
+  {
     language: "Kotlin",
     emoji: "🧩",
     url: "https://github.com/AgileCraftsmanshipCanarias/kata-setup-kotlin",
